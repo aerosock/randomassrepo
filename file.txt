@@ -5,6 +5,4 @@ linux
 ai
 
 python
-sdfsdf
-
-sdfsdf
+this is main ssdklfjsdlkjsdlkfj
